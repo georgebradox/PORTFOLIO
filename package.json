@@ -2,6 +2,7 @@
   "name": "brodox-portfolio",
   "version": "1.0.0",
   "description": "Brodox George's Portfolio Website with React",
+  "homepage": "https://georgebradox.github.io/PORTFOLIO",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -12,6 +13,7 @@
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "framer-motion": "^10.16.0",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
