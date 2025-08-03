@@ -224,7 +224,7 @@ const Home = () => {
               <div className="relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-purple-600 rounded-2xl transform rotate-6 scale-105 opacity-20"></div>
                 <img 
-                  src="/img3.jpg" 
+                  src="img3.jpg" 
                   alt="Brodox George" 
                   className="relative rounded-2xl shadow-2xl w-full h-96 object-cover"
                 />

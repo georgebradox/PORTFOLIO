@@ -381,7 +381,7 @@ const About = () => {
                     <div className="relative inline-block">
                       <div className="absolute inset-0 bg-gradient-to-br from-blue-400 to-purple-600 rounded-full transform rotate-6 scale-105 opacity-20"></div>
                       <img 
-                        src="/img2.jpg" 
+                        src="img2.jpg" 
                         alt="Brodox George" 
                         className="relative rounded-full shadow-2xl w-48 h-48 object-cover mx-auto"
                       />
